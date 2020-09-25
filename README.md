@@ -30,7 +30,7 @@ Happy Hacktober! :octocat: This is a beginner friendly repository made specifica
 ### 1. Register yourself for Hacktoberfest 2020
 ###### Link to register: https://hacktoberfest.digitalocean.com/
 
-![register](https://user-images.githubusercontent.com/42115530/65821155-7f724600-e24f-11e9-90ed-8a956b0a854a.JPG)
+![register](https://images.prismic.io/www-static/e6c04b47-bd9d-474a-9d25-ab143f47349e_Hacktoberfest2020.png)
 
 ### 2. Star and Fork this Repository
 ###### You can star ⭐ and fork 🍽️ this repository on GitHub by navigating at the top of this repository.
