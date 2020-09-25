@@ -48,7 +48,7 @@ Happy Hacktober! :octocat: This is a beginner friendly repository made specifica
 ###### We’ll use the `git clone`  command along with the URL that points to your fork of the repository.
 
 ###### This URL will be similar to the URL above, except now it will end with `.git.` In the example above, the URL will look like this:
-https://github.com/your-username/hacktoberfest19.git
+https://github.com/your-username/HacktoberFest2020.git
 
 ###### You can alternatively copy the URL by using the green “Clone or download” button from your repository page that you just forked from the original repository page. Once you click the button, you’ll be able to copy the URL by clicking the binder button next to the URL:
 
