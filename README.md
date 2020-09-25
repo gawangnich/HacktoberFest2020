@@ -83,11 +83,11 @@ https://github.com/your-username/hacktoberfest19.git
 ###### Now navigate to your forked repository, and press the “New pull request” button on your left-hand side of the page.
 
 ## Hurray!!! You just got closer to completing your hacktoberfest challenge. 😃   
-note :: organise community hacktober participation!
+NOTE :  organise community hacktober participation!
 
 ## Happy?? Star ⭐ this Repo. 🤩
 
 ## Check your Hacktoberfest Contribution status at:
-<a href="https://hacktoberfest.digitalocean.com/profile" target="blank">https://hacktoberfest.digitalocean.com/profile</a>
+<a href="https://hacktoberfest.digitalocean.com/profile" target="blank"> https://hacktoberfest.digitalocean.com/profile </a>
 
-> Made with ❤️
+> Made with ❤️ 
