@@ -13,21 +13,21 @@
 [![GitHub issues-closed](https://img.shields.io/github/issues-closed/Naereen/StrapDown.js.svg)]&nbsp;
 
 
-## Hacktoberfest2019
+## Hacktoberfest2020
 Happy Hacktober! :octocat: This is a beginner friendly repository made specifically for Hacktoberfest that helps you get your first PR and takes you a step closer to earning your Hacktoberfest T-shirt 👕.
 
 🎯 If you are a beginner, and looking for your first contribution, we are here to help. Just append your name and jobs on our
-###### <a href="https://github.com/rafiudd/hacktoberfest19/blob/master/contributor.md" target="blank">https://github.com/rafiudd/hacktoberfest19/blob/master/contributor.md</a> and that counts as your first PR.
+###### <a href="https://github.com/gawangnich/HacktoberFest2020/blob/master/contributor.md" target="blank">https://github.com/gawangnich/HacktoberFest2020/blob/master/contributor.md</a> and that counts as your first PR.
 
-🎯 In case you are an intermediate or advanced level programmer or developer, we have got you covered too!! Step to our <a href="https://github.com/rafiudd/hacktoberfest19/tree/master/Resources" target="blank"> Resources folder</a> and make contributions as per as your interests.
+🎯 In case you are an intermediate or advanced level programmer or developer, we have got you covered too!! Step to our <a href="https://github.com/gawangnich/HacktoberFest2020/tree/master/Resources" target="blank"> Resources folder</a> and make contributions as per as your interests.
 
 #### 💻 Also, our website is open to contributions from both frontend and designer fellows who want to help us in making it bigger and better. 
-### Check Contributor at: <a href="https://rafiudd.github.io/hacktoberfest19/" target="blank"> https://rafiudd.github.io/hacktoberfest19/ </a>
+### Check Contributor at: <a href="https://gawangnich.github.io/HacktoberFest2020/" target="blank"> https://gawangnich.github.io/HacktoberFest2020// </a>
 
 #### Read Here or Refer to <a href="https://www.digitalocean.com/community/tutorials/how-to-use-git-a-reference-guide" target="blank">  https://www.digitalocean.com/community/tutorials/how-to-use-git-a-reference-guide </a> for more.
 
 # Instructions :
-### 1. Register yourself for Hacktoberfest 2019
+### 1. Register yourself for Hacktoberfest 2020
 ###### Link to register: https://hacktoberfest.digitalocean.com/
 
 ![register](https://user-images.githubusercontent.com/42115530/65821155-7f724600-e24f-11e9-90ed-8a956b0a854a.JPG)
@@ -35,9 +35,9 @@ Happy Hacktober! :octocat: This is a beginner friendly repository made specifica
 ### 2. Star and Fork this Repository
 ###### You can star ⭐ and fork 🍽️ this repository on GitHub by navigating at the top of this repository.
 
-###### GitHub repository URLs will reference both the username associated with the owner of the repository, as well as the repository name. For example, Rafiudd is the owner of the hacktoberfest repository, so the GitHub URL for this project is: 
+###### GitHub repository URLs will reference both the username associated with the owner of the repository, as well as the repository name. For example, GawangNich is the owner of the hacktoberfest repository, so the GitHub URL for this project is: 
 
-<a href="https://github.com/rafiudd/hacktoberfest19" target="blank">https://github.com/rafiudd/hacktoberfest19</a>
+<a href="https://github.com/gawangnich/HacktoberFest2020" target="blank">https://github.com/gawangnich/HacktoberFest2020</a>
 
 ###### When you’re on the main page for the repository, you’ll see a button to "Star" and “Fork” the repository on your upper right-hand side of the page, underneath your user icon.
 
@@ -56,7 +56,7 @@ https://github.com/your-username/hacktoberfest19.git
 
 ###### To create your branch, from your terminal window, change your directory so that you are working in the directory of the repository. Be sure to use the actual name of the repository (i.e. hacktoberfest19) to change into that directory.
 
-#####    ` cd hacktoberfest19`
+#####    ` cd HacktoberFest2020`
 
 
 ###### Now, we’ll create our new branch with the git branch command. Make sure you name it descriptively so that others working on the project understand what you are working on.
