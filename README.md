@@ -22,7 +22,7 @@ Happy Hacktober! :octocat: This is a beginner friendly repository made specifica
 🎯 In case you are an intermediate or advanced level programmer or developer, we have got you covered too!! Step to our <a href="https://github.com/gawangnich/HacktoberFest2020/tree/master/Resources" target="blank"> Resources folder</a> and make contributions as per as your interests.
 
 #### 💻 Also, our website is open to contributions from both frontend and designer fellows who want to help us in making it bigger and better. 
-### Check Contributor at: <a href="https://gawangnich.github.io/HacktoberFest2020/" target="blank"> https://gawangnich.github.io/HacktoberFest2020// </a>
+### Check Contributor at: <a href="https://gawangnich.github.io/HacktoberFest2020/" target="blank"> https://gawangnich.github.io/HacktoberFest2020/ </a>
 
 #### Read Here or Refer to <a href="https://www.digitalocean.com/community/tutorials/how-to-use-git-a-reference-guide" target="blank">  https://www.digitalocean.com/community/tutorials/how-to-use-git-a-reference-guide </a> for more.
 
