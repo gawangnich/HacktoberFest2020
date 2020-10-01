@@ -1,3 +1,5 @@
 ﻿# List of Contributor
-@makhalibagas
-@capriz
+
+- @makhalibagas
+- @capriz
+- @varunvj1
