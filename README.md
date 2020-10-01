@@ -6,7 +6,7 @@
 [![GitHub contributors](https://img.shields.io/badge/contributors-14-yellow)]&nbsp;
 [![GitHub issues](https://img.shields.io/github/issues/Naereen/StrapDown.js.svg)]&nbsp;
 
-[![GitHub pull-requests](https://img.shields.io/github/issues-pr/Naereen/StrapDown.js.svg)]&nbsp;
+[![GitHub pull-requests](https://img.shields.io/badge/pull%20requests-5%20open-green)]&nbsp;
 [![GitHub pull-requests closed](https://img.shields.io/github/issues-pr-closed/Naereen/StrapDown.js.svg)]&nbsp;
 [![HitCount](http://hits.dwyl.io/Naereen/badges.svg)]&nbsp;
 [![GitHub issues-closed](https://img.shields.io/github/issues-closed/Naereen/StrapDown.js.svg)]&nbsp;
