@@ -11,3 +11,4 @@
 - @tusiii
 - @anupriya-creator
 - @cruiz24-Engineer
+- [Amrita Singha Roy](https://github.com/uzumakinaruto96)
