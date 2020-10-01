@@ -5,7 +5,6 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)]&nbsp;
 [![GitHub contributors](https://img.shields.io/github/contributors/Naereen/StrapDown.js.svg)]&nbsp;
 [![GitHub issues](https://img.shields.io/github/issues/Naereen/StrapDown.js.svg)]&nbsp;
-[![Documentation Status](https://readthedocs.org/projects/ansicolortags/badge/?version=latest)])&nbsp;
 
 [![GitHub pull-requests](https://img.shields.io/github/issues-pr/Naereen/StrapDown.js.svg)]&nbsp;
 [![GitHub pull-requests closed](https://img.shields.io/github/issues-pr-closed/Naereen/StrapDown.js.svg)]&nbsp;
