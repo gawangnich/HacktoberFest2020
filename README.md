@@ -3,7 +3,7 @@
 [![first-timers-only](https://img.shields.io/badge/first--timers--only-friendly-blue.svg?style=flat-square)]&nbsp;
 [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)]&nbsp;
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)]&nbsp;
-[![GitHub contributors](https://img.shields.io/github/contributors/Naereen/StrapDown.js.svg)]&nbsp;
+[![GitHub contributors](https://img.shields.io/badge/contributors-14-yellow)]&nbsp;
 [![GitHub issues](https://img.shields.io/github/issues/Naereen/StrapDown.js.svg)]&nbsp;
 
 [![GitHub pull-requests](https://img.shields.io/github/issues-pr/Naereen/StrapDown.js.svg)]&nbsp;
