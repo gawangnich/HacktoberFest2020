@@ -22,3 +22,7 @@
 h3{
     margin: 20px 0;
 }
+
+.form-control form-control-lg:active{
+    outline: 0;
+}
