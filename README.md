@@ -12,7 +12,8 @@
 [![GitHub issues-closed](https://img.shields.io/github/issues-closed/Naereen/StrapDown.js.svg)]&nbsp;
 
 
-## Hacktoberfest2020
+##            Hacktoberfest2020
+          1 OCTOBER - 31 OCTOBER
 Happy Hacktober! :octocat: This is a beginner friendly repository made specifically for Hacktoberfest that helps you get your first PR and takes you a step closer to earning your Hacktoberfest T-shirt 👕.
 
 🎯 If you are a beginner, and looking for your first contribution, we are here to help. Just append your name and jobs on our
