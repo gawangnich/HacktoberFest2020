@@ -12,6 +12,7 @@
 - @anupriya-creator
 - @agfidpraz
 - @cruiz24-Engineer
+- @akankshasemwal
 - [Amrita Singha Roy](https://github.com/uzumakinaruto96)
 - [Atreyo Mandal](https://github.com/Atreyo69)
 - [Tripti Rao](https://github.com/Tripti19-Rao)
