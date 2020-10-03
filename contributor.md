@@ -17,3 +17,4 @@
 - [Atreyo Mandal](https://github.com/Atreyo69)
 - [Tripti Rao](https://github.com/Tripti19-Rao)
 - [Sagar Kalra](https://github.com/kalrasagar)
+- @innatepanda
