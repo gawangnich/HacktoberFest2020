@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Random Color Generator</title>
+    <link
+      href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap"
+      rel="stylesheet"
+    />
+    <style>
+      :root {
+        --generated-color: rgb(40, 180, 99);
+        --btn-border: #494949;
+        --body-bg: #bfc9ca;
+        --button-bg: #fff;
+        --btn-hover-color: #8e8e8e;
+      }
+
+      body {
+        font-family: "Montserrat", sans-serif;
+        padding: 2rem;
+        background-color: var(--body-bg);
+        text-align: center;
+      }
+      .content-box {
+        box-shadow: 0 2.8px 2.2px rgba(0, 0, 0, 0.034),
+          0 6.7px 5.3px rgba(0, 0, 0, 0.048), 0 12.5px 10px rgba(0, 0, 0, 0.06),
+          0 22.3px 17.9px rgba(0, 0, 0, 0.072),
+          0 41.8px 33.4px rgba(0, 0, 0, 0.086), 0 100px 80px rgba(0, 0, 0, 0.12);
+        display: flex;
+        flex-direction: column;
+        height: 250px;
+        justify-content: space-between;
+        margin: auto;
+        padding: 1rem;
+        width: 60vw;
+        background-color: var(--generated-color);
+      }
+      h1 {
+        text-align: center;
+        filter: invert(100%);
+        text-shadow: 2px 4px 3px rgba(0, 0, 0, 0.3);
+      }
+      button {
+        background: var(--button-bg);
+        border: 4px solid var(--btn-border);
+        color: var(--btn-border);
+        font-size: large;
+        font-weight: 700;
+        padding: 0.5rem 1rem;
+        text-decoration: none;
+        transition: all 0.4s ease 0s;
+      }
+      button:hover {
+        cursor: pointer;
+        background: var(--btn-hover-color);
+        transition: all 0.2s ease 0s;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="content-box">
+      <div>
+        <h1>Generate your beautiful colors</h1>
+        <h3>Your generated color</h3>
+        <h2 class="hex-value">#1234</h2>
+      </div>
+      <button class="generate-color">Generate color</button>
+    </div>
+    <script src="./index.js"></script>
+  </body>
+</html>
