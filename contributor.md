@@ -21,3 +21,4 @@
 - [Sagar Kalra](https://github.com/kalrasagar)
 - @innatepanda
 - @jpk3lly (https://github.com/jpk3lly)
+- @akbarsh
