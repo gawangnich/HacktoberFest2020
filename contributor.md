@@ -22,3 +22,7 @@
 - @innatepanda
 - @jpk3lly (https://github.com/jpk3lly)
 - @akbarsh
+- @meetxpress 
+    - [Github](https://github.com/meetxpress)
+    - [Site](http://meetpatel.live)
+  
