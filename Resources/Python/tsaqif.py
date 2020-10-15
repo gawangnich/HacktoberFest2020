@@ -1,0 +1,2 @@
+string = "TSAQIF"
+print(string)
