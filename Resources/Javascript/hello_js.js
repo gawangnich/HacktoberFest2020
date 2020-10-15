@@ -1,2 +1,2 @@
-let word = "Hello World";
-console.log(word);
+let Hacktoberfest = "Hacktoberfest 2020!!!";
+console.log(Hacktoberfest);
