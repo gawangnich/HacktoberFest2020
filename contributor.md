@@ -31,3 +31,4 @@
 - [@AshhTT](https://github.com/AshhTT)
 
 - @aashisemwal
+- [Leonard Rizta Anugerah Perdana](https://github.com/leonardrizta)
