@@ -38,3 +38,4 @@
 - @immessionate(https://github.com/immessionate)
 - @pulkit1408(https://github.com/pulkit1408)
 - @nathan-pham
+- [@divshacker](https://github.com/divshacker)
