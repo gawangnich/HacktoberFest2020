@@ -1,3 +1,6 @@
 [submodule "Resources/C/Algo"]
 	path = Resources/C/Algo
 	url = git@github.com:Progyan1997/Design-and-Analysis-of-Algorithm.git
+[submodule "Resources/Python/CodeCrush"]
+	path = Resources/Python/CodeCrush
+	url = https://github.com/joanasoaresd/CodeCrush.git
